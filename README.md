@@ -14,10 +14,14 @@
 ## Introduction
 Welcome to the **Project Name** repository! This project aims to...
 
+---
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- 🚀 **Feature 1:** Description of feature 1
+- 🔍 **Feature 2:** Description of feature 2
+- 🛠️ **Feature 3:** Description of feature 3
+- 🎨 **Feature 4:** Description of feature 4
+---
+
 
 ## Installation
 To install this project, follow these steps:
